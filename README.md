@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since June 2024.<br>📚 I'm currently learning Bootstrap.<br>🎯 Goals: I´d like to be part of a project, so let me know...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since June 2024.<br>📚 I'm currently learning Bootstrap, GULP, BEM...<br>🎯 Goals: I´d like to be part of a project, so let me know...<br>🎲 Fun fact: ...</p>
 
 ###
 
