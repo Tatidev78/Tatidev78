@@ -3,13 +3,13 @@
 ###
 
 <p align="left">My name is Tati... and I'm currently studying Full Stask Java.</p>
-
+<!--
 ###
-
+<!--
 <h2 align="left">About me</h2>
-
+<!--
 ###
-
+<!--
 <p align="left">✨ Creating bugs since June 2024.<br>📚 I'm currently learning Bootstrap, GULP, BEM...<br>🎯 Goals: I´d like to be part of a project, so let me know...<br>🎲 Fun fact: ...</p>
 <!--
 ###
