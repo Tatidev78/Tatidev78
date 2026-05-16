@@ -21,21 +21,61 @@
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
-| Categoria | Tecnologias |
-|-----------|-------------|
-| **Frontend** | React, JavaScript, TypeScript, HTML5, CSS3, Styled Components |
-| **Backend** | Java, Spring Boot |
-| **Mobile** | React Native (básico) |
-| **Ferramentas** | Git, GitHub, VS Code, Figma |
-| **Metodologias** | REST API, Responsividade, Mobile First |
+<h3 align="left">Frontend</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
+</div>
+
+<h3 align="left">Backend</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot" />
+</div>
+
+<h3 align="left">Ferramentas</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+</div>
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">🏆 GitHub Trophies</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tatidev78&show_icons=true&theme=tokyonight&hide=contribs,prs&show=prs_merged,prs_merged_percentage" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatidev78&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tatidev78&theme=tokyonight&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</div>
+
+---
+
+<h2 align="left">🔥 GitHub Streak</h2>
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com/?user=Tatidev78&theme=tokyonight&hide_border=true&border_radius=8" height="180" alt="GitHub Streak" />
+</div>
+
+---
+
+<h2 align="left">📈 Activity Graph</h2>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tatidev78&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
